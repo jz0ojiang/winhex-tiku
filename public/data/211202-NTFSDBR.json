@@ -1,0 +1,30 @@
+{
+    "id": "211202",
+    "label": "实例：恢复丢失 DBR 的 NTFS 分区",
+    "links": [
+        {
+            "name": "本地下载",
+            "url": "/data/211202-NTFSDBR.7z"
+        },
+        {
+            "name": "蓝奏云 密码: d2dh",
+            "url": "https://im0o.lanzouv.com/iERlB0gpd6vc"
+        },
+        {
+            "name": "夸克网盘 提取码：cB1w",
+            "url": "https://pan.quark.cn/s/8315ba5bde8d"
+        }
+    ],
+    "desc": {
+        "tags": [
+            "计算 NTFS 分区大小",
+            "NTFS 文件常见的记录",
+            "NTFS 文件系统的结构",
+            "NTFS 常见的元文件结构"
+        ],
+        "source": {
+            "name": "使用 Winhex 进行数据恢复（8）",
+            "url": "https://blog.im0o.top/posts/3d55069f.html"
+        }
+    }
+}

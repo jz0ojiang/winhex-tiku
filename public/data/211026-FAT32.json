@@ -1,0 +1,29 @@
+{
+    "id": "211026",
+    "label": "恢复 FAT32 中被删除的文件",
+    "links": [
+        {
+            "name": "本地下载",
+            "url": "/data/211026-FAT32.7z"
+        },
+        {
+            "name": "蓝奏云 密码: 2ohz",
+            "url": "https://im0o.lanzouv.com/in5Az0gpd6ta"
+        },
+        {
+            "name": "夸克网盘 密码: usbg",
+            "url": "https://pan.quark.cn/s/f03a526af4f2"
+        }
+    ],
+    "desc": {
+        "tags": [
+            "FAT32 文件系统删除文件的分析",
+            "FAT32 文件系统删除文件后目录项起始簇号高位清零的分析",
+            "实例：恢复 FAT32 中被删除的文件"
+        ],
+        "source": {
+            "name": "使用 Winhex 进行数据恢复（4）",
+            "url": "https://blog.im0o.top/posts/7783b927.html"
+        }
+    }
+}

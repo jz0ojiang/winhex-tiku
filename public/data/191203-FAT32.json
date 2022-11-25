@@ -1,0 +1,29 @@
+{
+    "id": "191203",
+    "label": "实例：导出损坏分区 FAT32 中的文件",
+    "links": [
+        {
+            "name": "本地下载",
+            "url": "/data/191203-FAT32.7z"
+        },
+        {
+            "name": "蓝奏云 密码: 191203",
+            "url": "https://im0o.lanzouv.com/iYN9W0gpd6ri"
+        },
+        {
+            "name": "夸克网盘 密码: Wdvy",
+            "url": "https://pan.quark.cn/s/159b89af9675"
+        }
+    ],
+    "desc": {
+        "tags": [
+            "认识 FAT32 根目录文件目录项",
+            "从 FAT32 文件系统中底层恢复文件",
+            "附加题：恢复带有备份的 NTFS 分区（分区2）"
+        ],
+        "source": {
+            "name": "使用 Winhex 进行数据恢复（3）",
+            "url": "https://blog.im0o.top/posts/ea54819e.html"
+        }
+    }
+}

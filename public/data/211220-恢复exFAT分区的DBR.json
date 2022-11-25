@@ -1,0 +1,28 @@
+{
+    "id": "211220",
+    "label": "恢复 exFAT 分区的 DBR",
+    "links": [
+        {
+            "name": "本地下载",
+            "url": "/data/211220-恢复exFAT分区的DBR.7z"
+        },
+        {
+            "name": "蓝奏云 密码: dt9b",
+            "url": "https://im0o.lanzouv.com/it4oB0gpd7re"
+        },
+        {
+            "name": "夸克网盘 密码: yjhR",
+            "url": "https://pan.quark.cn/s/4a7c988c90a7"
+        }
+    ],
+    "desc": {
+        "tags": [
+            "exFAT 文件系统的结构",
+            "exFAT 计算分区大小"
+        ],
+        "source": {
+            "name": "使用 Winhex 进行数据恢复（13）",
+            "url": "https://blog.im0o.top/posts/8bb239d5.html"
+        }
+    }
+}

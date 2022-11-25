@@ -1,0 +1,31 @@
+{
+    "id": "191226",
+    "label": "恢复 FAT32 分区（手动填写DBR）",
+    "links": [
+        {
+            "name": "本地下载",
+            "url": "/data/191226-FAT32.7z"
+        },
+        {
+            "name": "蓝奏云 密码: 191226",
+            "url": "https://im0o.lanzouv.com/iIpfS0gpd6sj"
+        },
+        {
+            "name": "夸克网盘 密码: Qu9f",
+            "url": "https://pan.quark.cn/s/74b6808bb5a2"
+        }
+    ],
+    "desc": {
+        "tags": [
+            "计算FAT32分区保留区大小",
+            "计算FAT32分区FAT表大小",
+            "计算FAT32分区每簇扇区数",
+            "计算FAT32分区大小",
+            "附加题：填写NTFS文件系统的DBR"
+        ],
+        "source": {
+            "name": "使用 Winhex 进行数据恢复（3）",
+            "url": "https://blog.im0o.top/posts/ea54819e.html"
+        }
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "id": "211203",
+    "label": "实例：从 NTFS 分区提取文件",
+    "links": [
+        {
+            "name": "本地下载",
+            "url": "/data/211203-NTFS-手工提取文件.7z"
+        },
+        {
+            "name": "蓝奏云 密码: 55mx",
+            "url": "https://im0o.lanzouv.com/iwAGJ0gpd7gd"
+        },
+        {
+            "name": "夸克网盘 密码: xLuw",
+            "url": "https://pan.quark.cn/s/6aff6abc4b8c"
+        }
+    ],
+    "desc": {
+        "tags": [
+            "NTFS 文件常见的记录",
+            "NTFS 文件系统的结构",
+            "NTFS 常见的元文件结构",
+            "手工提取 NTFS 分区中的文件"
+        ],
+        "source": {
+            "name": "使用 Winhex 进行数据恢复（8）",
+            "url": "https://blog.im0o.top/posts/3d55069f.html"
+        }
+    }
+}

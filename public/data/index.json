@@ -1,0 +1,74 @@
+{
+    "list": [
+        {
+            "id": "191128",
+            "label": "实例：填写MBR",
+            "config": "/data/191128-MBR.json"
+        },
+        {
+            "id": "191203",
+            "label": "实例：导出损坏分区 FAT32 中的文件",
+            "config": "/data/191203-FAT32.json"
+        },
+        {
+            "id": "191226",
+            "label": "恢复 FAT32 分区（手动填写DBR）",
+            "config": "/data/191226-FAT32.json"
+        },
+        {
+            "id": "211023",
+            "label": "断电导致磁盘错误与误格式化修复",
+            "config": "/data/211023-实训题目.json"
+        },
+        {
+            "id": "211026",
+            "label": "恢复 FAT32 中被删除的文件",
+            "config": "/data/211026-FAT32.json"
+        },
+        {
+            "id": "211202",
+            "label": "实例：恢复丢失 DBR 的 NTFS 分区",
+            "config": "/data/211202-NTFSDBR.json"
+        },
+        {
+            "id": "211203",
+            "label": "实例：从 NTFS 分区提取文件",
+            "config": "/data/211203-NTFS-手工提取文件.json"
+        },
+        {
+            "id": "211220",
+            "label": "恢复 exFAT 分区的 DBR",
+            "config": "/data/211220-恢复exFAT分区的DBR.json"
+        },
+        {
+            "id": "211221",
+            "label": "从 exFAT 分区中提取文件",
+            "config": "/data/211221-从 exFAT 分区中提取文件.json"
+        },
+        {
+            "id": "220925",
+            "label": "FAT32 综合实训题目",
+            "config": "/data/220925-实训题目.json"
+        },
+        {
+            "id": "221031",
+            "label": "5GB SD卡实例实训题目",
+            "config": "/data/221031-实训题目.json"
+        },
+        {
+            "id": "221109",
+            "label": "综合实训题目",
+            "config": "/data/221109-实训题目.json"
+        },
+        {
+            "id": "221113",
+            "label": "综合实训题目",
+            "config": "/data/221113-实训题目.json"
+        },
+        {
+            "id": "221123",
+            "label": "恢复丢失0号超级块的Ext3分区",
+            "config": "/data/221123-恢复丢失0号超级块的Ext3分区.json"
+        }
+    ]
+}

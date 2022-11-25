@@ -1,0 +1,26 @@
+{
+    "id": "191128",
+    "label": "实例：填写MBR",
+    "links": [
+        {
+            "name": "本地下载",
+            "url": "/data/191128-MBR.7z"
+        },
+        {
+            "name": "蓝奏云 密码: 191128",
+            "url": "https://im0o.lanzouv.com/ihZ3M0gpd6pg"
+        },
+        {
+            "name": "夸克云盘 提取码：dTFz",
+            "url": "https://pan.quark.cn/s/5c8620bca63f"
+        }
+    ],
+    "desc": {
+        "tags": "MBR 分区表结构",
+        "desc": "填写MBR",
+        "source": {
+            "name": "使用 Winhex 进行数据恢复（2）",
+            "url": "https://blog.im0o.top/posts/52e8e6fb.html"
+        }
+    }
+}

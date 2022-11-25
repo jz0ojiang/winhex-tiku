@@ -1,0 +1,29 @@
+{
+    "id": "220925",
+    "label": "FAT32 综合实训题目",
+    "links": [
+        {
+            "name": "蓝奏云 密码: 3pwb",
+            "url": "https://im0o.lanzouv.com/iY7dY0gtwo1i"
+        },
+        {
+            "name": "夸克网盘 密码: 87yF",
+            "url": "https://pan.quark.cn/s/5a386bf8b31f"
+        },
+        {
+            "name": "Notion Web",
+            "url": "https://im0o.notion.site/220925-47a7208a241f44af89cc132edfe95475"
+        }
+    ],
+    "desc": {
+        "tags": [
+            "FAT32 文件系统综合训练"
+        ],
+        "desc": [
+            "该题文件为综合题目，本题无示例恢复步骤，请自行对照教程方法进行实操。",
+            "本实例为 FAT32 文件系统综合训练，请按要求恢复文件中的 flag",
+            "在题目压缩包内包含题目说明文档，请按照文档要求恢复文件",
+            "题目对应答案的解压密码为 220925"
+        ]
+    }
+}

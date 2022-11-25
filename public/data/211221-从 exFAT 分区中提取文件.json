@@ -1,0 +1,28 @@
+{
+    "id": "211221",
+    "label": "从 exFAT 分区中提取文件",
+    "links": [
+        {
+            "name": "本地下载",
+            "url": "/data/211221-从 exFAT 分区中提取文件.7z"
+        },
+        {
+            "name": "蓝奏云 密码: f8dh",
+            "url": "https://im0o.lanzouv.com/iWXma0gpd7sf"
+        },
+        {
+            "name": "夸克网盘 提取码：YXP8",
+            "url": "https://pan.quark.cn/s/9a2b92450b44"
+        }
+    ],
+    "desc": {
+        "tags": [
+            "exFAT 文件系统的结构",
+            "手工提取 exFAT 分区中的文件"
+        ],
+        "source": {
+            "name": "使用 Winhex 进行数据恢复（13）",
+            "url": "https://blog.im0o.top/posts/8bb239d5.html"
+        }
+    }
+}
