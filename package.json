@@ -1,0 +1,13 @@
+{
+  "name": "datarecovery",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.8.2"
+  },
+  "scripts": {
+    "dev": "set NODE_OPTIONS=--openssl-legacy-provider & vuepress dev docs --temp .temp",
+    "build": "set NODE_OPTIONS=--openssl-legacy-provider & vuepress build docs"
+  }
+}
