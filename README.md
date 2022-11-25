@@ -8,3 +8,4 @@
 
 题库地址：[winhex.im0o.top](https://winhex.im0o.top)
 
+v1 题库地址：[im0o.top/winhex-tiku](https://im0o.top/winhex-tiku)
