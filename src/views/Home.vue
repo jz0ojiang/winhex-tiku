@@ -3,7 +3,7 @@ import type { Ref } from "vue";
 import type { dblist } from "@/types";
 import { ref, onMounted } from "vue";
 import { Search } from "@vicons/ionicons5";
-import { useRouter } from "vue-router";
+import { useRouter, RouterLink } from "vue-router";
 import { NButton, NButtonGroup } from "naive-ui";
 import logo from "../assets/logo.webp";
 import { getList } from "@/components/db";
@@ -80,6 +80,9 @@ onMounted(async () => {
           </template>
         </n-input>
       </div>
+      <div v-if="!resultElement" style="margin-top: .6em">
+        <RouterLink to="/list" class="link">查看题库列表</RouterLink>
+      </div>
       <div class="result" v-if="resultElement">
         <resultElement />
       </div>
@@ -138,6 +141,11 @@ onMounted(async () => {
     left: 50%;
     transform: translateX(-50%);
     top: 120px;
+
+    .link {
+      color: #447974;
+      text-decoration: none;
+    }
 
     .title {
       display: flex;
