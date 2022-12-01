@@ -95,13 +95,18 @@ const router = useRouter()
 const id = ref(router.currentRoute.value.query.id)
 const data: Ref<dbdetail | null> = ref(null)
 
+const provList = ref(router.currentRoute.value.query.provList)
     
 const message = useMessage();
 
 const disableDownload = ref(false)
 
 const handleClose = () => {
-    router.push({ path: '/' })
+    if (provList.value) {
+        router.push({ path: '/list' })
+    } else {
+        router.push({ path: '/' })
+    }
 }
 
 function downloadFiles(urls: string | string[] | undefined) {

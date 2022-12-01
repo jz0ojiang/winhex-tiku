@@ -76,7 +76,7 @@ const createColumns = ({ go }: { go: (val: Data) => void}): DataTableColumns<Dat
 
 const columns = createColumns({
     go: (val) => {
-        router.push({ path: "/detail", query: { id: val.id } });
+        router.push({ path: "/detail", query: { id: val.id, provList: "true" } });
     }
 })
 
