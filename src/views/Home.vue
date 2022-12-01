@@ -145,6 +145,8 @@ onMounted(async () => {
     .link {
       color: #447974;
       text-decoration: none;
+    }:hover {
+      color: #3abeb1;
     }
 
     .title {
