@@ -1,0 +1,31 @@
+{
+    "id": "230209",
+    "label": "恢复严重被破坏分区的 Ext3 文件系统",
+    "links": [
+        {
+            "name": "蓝奏云 密码: apbx",
+            "url": "https://im0o.lanzouo.com/iNcQV0n1puyj"
+        },
+        {
+            "name": "夸克网盘",
+            "url": "https://pan.quark.cn/s/8e98584daed0"
+        },
+        {
+            "name": "Notion Web",
+            "url": "https://im0o.notion.site/230209-Ext3-7e30548c0d3f4aca87c6a917a4056552"
+        }
+    ],
+    "desc": {
+        "tags": [
+            "Ext3 文件系统的结构",
+            "Ext3 文件系统的超级块分析",
+            "Ext3 文件系统的块组描述符分析",
+            "修复被破坏的 Ext3 文件系统"
+        ],
+        "source": {
+            "name": "使用 Winhex 进行数据恢复（18）",
+            "url": "https://blog.im0o.top/posts/40df18d9.html"
+        }
+    }
+}
+
